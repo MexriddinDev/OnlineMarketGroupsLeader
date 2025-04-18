@@ -8,3 +8,4 @@ class PostCategoryController extends Controller
 {
     //
 }
+
